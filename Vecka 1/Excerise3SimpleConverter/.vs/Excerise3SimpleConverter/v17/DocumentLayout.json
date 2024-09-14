@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise3SimpleConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4E8820-C49E-4E4E-963A-400E7B6A0605}|Excerise3SimpleConverter\\Excerise3SimpleConverter.csproj|c:\\users\\obed_\\onedrive\\desktop\\kyh\\kyh-projects\\vecka 1\\excerise3simpleconverter\\excerise3simpleconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4E8820-C49E-4E4E-963A-400E7B6A0605}|Excerise3SimpleConverter\\Excerise3SimpleConverter.csproj|solutionrelative:excerise3simpleconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise3SimpleConverter\\Excerise3SimpleConverter\\Program.cs",
+              "RelativeDocumentMoniker": "Excerise3SimpleConverter\\Program.cs",
+              "ToolTip": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise3SimpleConverter\\Excerise3SimpleConverter\\Program.cs",
+              "RelativeToolTip": "Excerise3SimpleConverter\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:11:46.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
