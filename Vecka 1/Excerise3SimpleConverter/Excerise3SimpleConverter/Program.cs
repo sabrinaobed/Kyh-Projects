@@ -34,7 +34,7 @@ namespace Excerise3SimpleConverter
                     
                     float temperatureFarenheit = int.Parse(Console.ReadLine());
                     float celsiusTemperature = (temperatureFarenheit -32f) * 5/9f;
-                    Console.WriteLine($"Temperature i farenheit är :{celsiusTemperature} ");
+                    Console.WriteLine($"Temperature i celsius är :{celsiusTemperature} ");
                 }
 
             }
