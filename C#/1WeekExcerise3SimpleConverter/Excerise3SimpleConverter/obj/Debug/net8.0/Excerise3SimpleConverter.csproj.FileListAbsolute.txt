@@ -1,0 +1,15 @@
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\bin\Debug\net8.0\Excerise3SimpleConverter.exe
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\bin\Debug\net8.0\Excerise3SimpleConverter.deps.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\bin\Debug\net8.0\Excerise3SimpleConverter.runtimeconfig.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\bin\Debug\net8.0\Excerise3SimpleConverter.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\bin\Debug\net8.0\Excerise3SimpleConverter.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.AssemblyInfoInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.AssemblyInfo.cs
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.csproj.CoreCompileInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.sourcelink.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\refint\Excerise3SimpleConverter.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\Excerise3SimpleConverter.genruntimeconfig.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Excerise3SimpleConverter\Excerise3SimpleConverter\obj\Debug\net8.0\ref\Excerise3SimpleConverter.dll
