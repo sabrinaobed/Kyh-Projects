@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Execerise4ConsoleColor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31bc303a369986575fd20f76e595b1f8fa594cc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6275030659f230ec790b6a80b96a153d4e6efb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Execerise4ConsoleColor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Execerise4ConsoleColor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

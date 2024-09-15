@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Execerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj": {}
+    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Execerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj": {
+    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Execerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj",
+        "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj",
         "projectName": "Execerise4ConsoleColor",
-        "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Execerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj",
+        "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise4ConsoleColor\\Execerise4ConsoleColor\\Execerise4ConsoleColor.csproj",
         "packagesPath": "C:\\Users\\obed_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Execerise4ConsoleColor\\Execerise4ConsoleColor\\obj\\",
+        "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise4ConsoleColor\\Execerise4ConsoleColor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\obed_\\AppData\\Roaming\\NuGet\\NuGet.Config",

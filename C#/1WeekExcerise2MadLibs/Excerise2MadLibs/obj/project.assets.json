@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise2MadLibs\\Excerise2MadLibs\\Excerise2MadLibs.csproj",
+      "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise2MadLibs\\Excerise2MadLibs\\Excerise2MadLibs.csproj",
       "projectName": "Excerise2MadLibs",
-      "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise2MadLibs\\Excerise2MadLibs\\Excerise2MadLibs.csproj",
+      "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise2MadLibs\\Excerise2MadLibs\\Excerise2MadLibs.csproj",
       "packagesPath": "C:\\Users\\obed_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise2MadLibs\\Excerise2MadLibs\\obj\\",
+      "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise2MadLibs\\Excerise2MadLibs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\obed_\\AppData\\Roaming\\NuGet\\NuGet.Config",

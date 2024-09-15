@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise1\\Excerise1\\Excerise1.csproj": {}
+    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise1\\Excerise1\\Excerise1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise1\\Excerise1\\Excerise1.csproj": {
+    "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise1\\Excerise1\\Excerise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise1\\Excerise1\\Excerise1.csproj",
+        "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise1\\Excerise1\\Excerise1.csproj",
         "projectName": "Excerise1",
-        "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise1\\Excerise1\\Excerise1.csproj",
+        "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise1\\Excerise1\\Excerise1.csproj",
         "packagesPath": "C:\\Users\\obed_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise1\\Excerise1\\obj\\",
+        "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise1\\Excerise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\obed_\\AppData\\Roaming\\NuGet\\NuGet.Config",
