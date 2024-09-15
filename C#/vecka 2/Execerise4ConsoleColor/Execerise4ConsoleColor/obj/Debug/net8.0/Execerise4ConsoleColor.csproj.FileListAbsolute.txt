@@ -1,0 +1,15 @@
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\bin\Debug\net8.0\Execerise4ConsoleColor.exe
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\bin\Debug\net8.0\Execerise4ConsoleColor.deps.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\bin\Debug\net8.0\Execerise4ConsoleColor.runtimeconfig.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\bin\Debug\net8.0\Execerise4ConsoleColor.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\bin\Debug\net8.0\Execerise4ConsoleColor.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.AssemblyInfoInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.AssemblyInfo.cs
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.sourcelink.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\refint\Execerise4ConsoleColor.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\Execerise4ConsoleColor.genruntimeconfig.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\Vecka 1\Execerise4ConsoleColor\Execerise4ConsoleColor\obj\Debug\net8.0\ref\Execerise4ConsoleColor.dll
