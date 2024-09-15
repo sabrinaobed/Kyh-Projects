@@ -1,0 +1,15 @@
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\bin\Debug\net8.0\2WeekExcerise2Question.exe
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\bin\Debug\net8.0\2WeekExcerise2Question.deps.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\bin\Debug\net8.0\2WeekExcerise2Question.runtimeconfig.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\bin\Debug\net8.0\2WeekExcerise2Question.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\bin\Debug\net8.0\2WeekExcerise2Question.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.AssemblyInfoInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.AssemblyInfo.cs
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.csproj.CoreCompileInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.sourcelink.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\refint\2WeekExcerise2Question.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\2WeekExcerise2Question.genruntimeconfig.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise2Question\2WeekExcerise2Question\obj\Debug\net8.0\ref\2WeekExcerise2Question.dll
