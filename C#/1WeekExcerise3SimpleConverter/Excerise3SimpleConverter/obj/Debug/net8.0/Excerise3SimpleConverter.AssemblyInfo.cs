@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Excerise3SimpleConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31bc303a369986575fd20f76e595b1f8fa594cc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceec85d201edd99b0065b2d4b37e6780784f0e78")]
 [assembly: System.Reflection.AssemblyProductAttribute("Excerise3SimpleConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Excerise3SimpleConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\2WeekSimpleConverter.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DF6306-ABAA-4819-969A-C7FE5B258D8C}|2WeekSimpleConverter\\2WeekSimpleConverter.csproj|c:\\users\\obed_\\onedrive\\desktop\\kyh\\kyh-projects\\c#\\2weeksimpleconverter.2\\2weeksimpleconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DF6306-ABAA-4819-969A-C7FE5B258D8C}|2WeekSimpleConverter\\2WeekSimpleConverter.csproj|solutionrelative:2weeksimpleconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\2WeekSimpleConverter.2\\2WeekSimpleConverter\\Program.cs",
+              "RelativeDocumentMoniker": "2WeekSimpleConverter\\Program.cs",
+              "ToolTip": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\2WeekSimpleConverter.2\\2WeekSimpleConverter\\Program.cs",
+              "RelativeToolTip": "2WeekSimpleConverter\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:48:07.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

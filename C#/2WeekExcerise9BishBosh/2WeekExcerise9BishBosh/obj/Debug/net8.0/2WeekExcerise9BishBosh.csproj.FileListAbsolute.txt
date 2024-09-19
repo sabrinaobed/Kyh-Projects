@@ -1,0 +1,15 @@
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\bin\Debug\net8.0\2WeekExcerise9BishBosh.exe
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\bin\Debug\net8.0\2WeekExcerise9BishBosh.deps.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\bin\Debug\net8.0\2WeekExcerise9BishBosh.runtimeconfig.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\bin\Debug\net8.0\2WeekExcerise9BishBosh.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\bin\Debug\net8.0\2WeekExcerise9BishBosh.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.AssemblyInfoInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.AssemblyInfo.cs
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.csproj.CoreCompileInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.sourcelink.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\refint\2WeekExcerise9BishBosh.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\2WeekExcerise9BishBosh.genruntimeconfig.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise9BishBosh\2WeekExcerise9BishBosh\obj\Debug\net8.0\ref\2WeekExcerise9BishBosh.dll

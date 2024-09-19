@@ -1,0 +1,15 @@
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.AssemblyInfoInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.AssemblyInfo.cs
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.sourcelink.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\bin\Debug\net8.0\2WeekExcerise7WhileLoop.exe
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\bin\Debug\net8.0\2WeekExcerise7WhileLoop.deps.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\bin\Debug\net8.0\2WeekExcerise7WhileLoop.runtimeconfig.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\bin\Debug\net8.0\2WeekExcerise7WhileLoop.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\bin\Debug\net8.0\2WeekExcerise7WhileLoop.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\refint\2WeekExcerise7WhileLoop.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\2WeekExcerise7WhileLoop.genruntimeconfig.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise7WhileLoop\2WeekExcerise7WhileLoop\obj\Debug\net8.0\ref\2WeekExcerise7WhileLoop.dll

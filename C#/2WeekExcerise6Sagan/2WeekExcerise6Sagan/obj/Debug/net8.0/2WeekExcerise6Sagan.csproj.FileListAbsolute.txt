@@ -1,0 +1,15 @@
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\bin\Debug\net8.0\2WeekExcerise6Sagan.exe
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\bin\Debug\net8.0\2WeekExcerise6Sagan.deps.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\bin\Debug\net8.0\2WeekExcerise6Sagan.runtimeconfig.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\bin\Debug\net8.0\2WeekExcerise6Sagan.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\bin\Debug\net8.0\2WeekExcerise6Sagan.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.AssemblyInfoInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.AssemblyInfo.cs
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.csproj.CoreCompileInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.sourcelink.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\refint\2WeekExcerise6Sagan.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\2WeekExcerise6Sagan.genruntimeconfig.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\2WeekExcerise6Sagan\2WeekExcerise6Sagan\obj\Debug\net8.0\ref\2WeekExcerise6Sagan.dll

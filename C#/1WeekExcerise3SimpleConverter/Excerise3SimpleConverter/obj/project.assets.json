@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise3SimpleConverter\\Excerise3SimpleConverter\\Excerise3SimpleConverter.csproj",
+      "projectUniqueName": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise3SimpleConverter\\Excerise3SimpleConverter\\Excerise3SimpleConverter.csproj",
       "projectName": "Excerise3SimpleConverter",
-      "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise3SimpleConverter\\Excerise3SimpleConverter\\Excerise3SimpleConverter.csproj",
+      "projectPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise3SimpleConverter\\Excerise3SimpleConverter\\Excerise3SimpleConverter.csproj",
       "packagesPath": "C:\\Users\\obed_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\Vecka 1\\Excerise3SimpleConverter\\Excerise3SimpleConverter\\obj\\",
+      "outputPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\1WeekExcerise3SimpleConverter\\Excerise3SimpleConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\obed_\\AppData\\Roaming\\NuGet\\NuGet.Config",
