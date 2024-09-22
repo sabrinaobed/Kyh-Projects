@@ -1,0 +1,14 @@
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\bin\Debug\net8.0\Excerise3Method1.exe
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\bin\Debug\net8.0\Excerise3Method1.deps.json
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\bin\Debug\net8.0\Excerise3Method1.runtimeconfig.json
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\bin\Debug\net8.0\Excerise3Method1.dll
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\bin\Debug\net8.0\Excerise3Method1.pdb
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\Excerise3Method1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\Excerise3Method1.AssemblyInfoInputs.cache
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\Excerise3Method1.AssemblyInfo.cs
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\Excerise3Method1.csproj.CoreCompileInputs.cache
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\Excerise3Method1.dll
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\refint\Excerise3Method1.dll
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\Excerise3Method1.pdb
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\Excerise3Method1.genruntimeconfig.cache
+C:\Users\obed_\source\repos\Excerise3Method1\Excerise3Method1\obj\Debug\net8.0\ref\Excerise3Method1.dll

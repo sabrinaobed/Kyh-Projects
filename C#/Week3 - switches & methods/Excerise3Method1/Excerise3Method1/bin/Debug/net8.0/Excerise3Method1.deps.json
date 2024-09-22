@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Excerise3Method1/1.0.0": {
+        "runtime": {
+          "Excerise3Method1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excerise3Method1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

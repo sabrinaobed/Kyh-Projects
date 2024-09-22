@@ -1,0 +1,15 @@
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\bin\Debug\net8.0\Excerise1Switch.exe
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\bin\Debug\net8.0\Excerise1Switch.deps.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\bin\Debug\net8.0\Excerise1Switch.runtimeconfig.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\bin\Debug\net8.0\Excerise1Switch.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\bin\Debug\net8.0\Excerise1Switch.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.AssemblyInfoInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.AssemblyInfo.cs
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.csproj.CoreCompileInputs.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.sourcelink.json
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\refint\Excerise1Switch.dll
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.pdb
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\Excerise1Switch.genruntimeconfig.cache
+C:\Users\obed_\OneDrive\Desktop\KYH\Kyh-Projects\C#\Excerise1Switch\Excerise1Switch\obj\Debug\net8.0\ref\Excerise1Switch.dll

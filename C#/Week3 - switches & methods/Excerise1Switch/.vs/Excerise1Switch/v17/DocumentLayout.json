@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\Excerise1Switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722DBE68-A508-48ED-B323-C7E514AF13E8}|Excerise1Switch\\Excerise1Switch.csproj|c:\\users\\obed_\\onedrive\\desktop\\kyh\\kyh-projects\\c#\\excerise1switch\\excerise1switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722DBE68-A508-48ED-B323-C7E514AF13E8}|Excerise1Switch\\Excerise1Switch.csproj|solutionrelative:excerise1switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\Excerise1Switch\\Excerise1Switch\\Program.cs",
+              "RelativeDocumentMoniker": "Excerise1Switch\\Program.cs",
+              "ToolTip": "C:\\Users\\obed_\\OneDrive\\Desktop\\KYH\\Kyh-Projects\\C#\\Excerise1Switch\\Excerise1Switch\\Program.cs",
+              "RelativeToolTip": "Excerise1Switch\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:30:44.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
